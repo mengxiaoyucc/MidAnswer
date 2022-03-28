@@ -6,7 +6,8 @@
 - 预约凭证：支持线下到场后校验签到/核销/二维码自助签到等多种方式
 - 详尽的预约数据：支持预约名单数据导出Excel，打印
 
- ![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+  ![image](https://user-images.githubusercontent.com/91947091/160335696-58249a10-7e39-48f8-a59e-3e1de4ec8305.png)
+
  
 
 ## 技术运用
@@ -21,14 +22,16 @@
 ## 作者
 - 如有疑问，欢迎骚扰联系我鸭：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
 - 俺的微信:
- ![输入图片说明](demo/author-base.png)
  
+ 
+![image](https://user-images.githubusercontent.com/91947091/160335706-f0f69753-a87d-4c76-b2e1-38840ca2c5b9.png)
 
 
 
 ## 演示
+ ![image](https://user-images.githubusercontent.com/91947091/160335700-c9948a90-3c93-4022-b09e-7a6cfa3ad541.png)
+
  
-  ![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 
 ## 安装
 
@@ -38,43 +41,31 @@
 
 
 ## 截图
+![image](https://user-images.githubusercontent.com/91947091/160335715-2bcbc893-f52e-4e7c-b7e6-c5501933dfe3.png)
+![image](https://user-images.githubusercontent.com/91947091/160335722-269f38fb-462e-4f3b-b4f4-1f85c793b909.png)
+![image](https://user-images.githubusercontent.com/91947091/160335727-f5948abd-1fc4-4ce7-9fc1-7493a5132afc.png)
 
- ![输入图片说明](demo/1%E9%A6%96%E9%A1%B5.png)
+  ![image](https://user-images.githubusercontent.com/91947091/160335732-ee656e15-20b5-4e74-90be-4ad2b96aa56c.png)
+![image](https://user-images.githubusercontent.com/91947091/160335739-c629620f-e2f0-496b-83da-877c8af05847.png)
+![image](https://user-images.githubusercontent.com/91947091/160335743-5a7bb047-640e-4eeb-bb1e-7abc9f137e56.png)
+![image](https://user-images.githubusercontent.com/91947091/160335748-e4f8fbd6-b54c-4e88-9598-46d73a759baf.png)
+![image](https://user-images.githubusercontent.com/91947091/160335755-de7fb774-4833-4a3b-8c34-a808ba45b602.png)
+![image](https://user-images.githubusercontent.com/91947091/160335761-5d14813f-f134-4e04-9f94-a4ca7d90577a.png)
 
-![输入图片说明](demo/2%E6%A0%A1%E5%9B%AD%E5%8A%A8%E6%80%81.png)
-
-
-![输入图片说明](demo/3%E6%9D%A5%E8%AE%BF%E9%A1%BB%E7%9F%A5.png)
-
- ![输入图片说明](demo/4%E9%A2%84%E7%BA%A6%E6%97%A5%E5%8E%86.png)
-![输入图片说明](demo/5%E6%88%91%E7%9A%84.png)
-
-![输入图片说明](demo/6%E6%9D%A5%E8%AE%BF%E9%A2%84%E7%BA%A6.png)
-
-![输入图片说明](demo/7%E9%A2%84%E7%BA%A6%E8%AF%A6%E6%83%85.png)
-
-![输入图片说明](demo/8%E9%A2%84%E7%BA%A6%E5%A1%AB%E5%86%99.png)
-
-![输入图片说明](demo/9%E9%A2%84%E7%BA%A6%E6%88%90%E5%8A%9F.png)
 
  
 ## 后台管理系统截图
  
-![输入图片说明](demo/10%E5%90%8E%E5%8F%B0%E9%A6%96%E9%A1%B5.png)
- 
-![输入图片说明](demo/11%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E7%AE%A1%E7%90%86.png)
+ ![image](https://user-images.githubusercontent.com/91947091/160335775-ba27fd71-1d21-4959-bd36-cb2cc10d5293.png)
+![image](https://user-images.githubusercontent.com/91947091/160335782-cd33e159-41e5-41bf-ac65-3e9bd950ac4d.png)
+![image](https://user-images.githubusercontent.com/91947091/160335790-a641816d-33c0-497c-95f5-05a92f11d74d.png)
+![image](https://user-images.githubusercontent.com/91947091/160335797-d9ebb875-4abb-42e5-a5b2-0b70a477ee02.png)
+![image](https://user-images.githubusercontent.com/91947091/160335803-7ec5ad78-1b3a-4f54-8d55-a6b0e482acfc.png)
 
-![输入图片说明](demo/12%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E8%8F%9C%E5%8D%95.png)
+![image](https://user-images.githubusercontent.com/91947091/160335813-2917920f-18cd-4ef3-a3c6-3560e0061b72.png)
+![image](https://user-images.githubusercontent.com/91947091/160335818-a91d343f-1efe-4296-ac3d-b6fd94977734.png)
+![image](https://user-images.githubusercontent.com/91947091/160335824-2893220e-ab35-468c-bb5f-9fdb94bd10a0.png)
 
-![输入图片说明](demo/13%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E5%90%8D%E5%8D%95%E4%B8%8B%E8%BD%BD.png)
+![image](https://user-images.githubusercontent.com/91947091/160335831-082bd607-048f-4172-a6fd-64661e6eab2c.png)
 
-![输入图片说明](demo/14%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E5%90%8D%E5%8D%95%E7%AE%A1%E7%90%86.png)
 
-![输入图片说明](demo/15%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E5%90%8D%E5%8D%95%E7%AE%A1%E7%90%86.png)
-
-![输入图片说明](demo/16%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E6%A0%B8%E9%94%80.png)
-
-![输入图片说明](demo/17%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E6%B7%BB%E5%8A%A0.png)
-
-![输入图片说明](demo/18%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E6%97%B6%E6%AE%B5%E8%AE%BE%E7%BD%AE.png)
- 
