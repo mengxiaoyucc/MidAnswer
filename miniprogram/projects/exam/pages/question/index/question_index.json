@@ -1,0 +1,6 @@
+{
+	"usingComponents": {},
+	"enablePullDownRefresh": false,
+	"disableScroll": true,
+	"navigationBarTitleText": "答题竞赛"
+}

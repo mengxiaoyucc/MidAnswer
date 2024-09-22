@@ -1,0 +1,84 @@
+@import "../../../style/skin.wxss";
+
+page {
+	background-color: #fff !important;
+}
+
+.main {
+	padding: 0;
+	background-color: #fff !important;
+}
+
+.top {
+	width: 100%;
+}
+
+.top image {
+	width: 100%;
+}
+
+.box {
+	width: 100%;
+	padding: 80rpx 50rpx 20rpx;
+	border-top-right-radius: 45rpx;
+	border-top-left-radius: 45rpx;
+	margin-top: -60rpx;
+	position: relative;
+	background-color: #fff;
+}
+
+.box .inner {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.box .inner .item {
+	width: calc((100% - 40rpx) / 2);
+	margin-bottom: 30rpx;
+	min-height: 170rpx;
+	border-radius: 20rpx;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	box-shadow: 5rpx 5rpx 20rpx 1rpx rgba(114, 130, 138, 0.2);
+	color: #fff;
+}
+
+.box .inner .item:nth-child(4n+1) {
+	border-color: #0E9489;
+	background-image: linear-gradient(180deg, #0E9489, #19bbad, #31dacb);
+}
+
+.box .inner .item:nth-child(4n+2) {
+	border-color: #f37b1d;
+	background-image: linear-gradient(180deg, #f37b1d, #fd9342, #ff9f56);
+}
+
+.box .inner .item:nth-child(4n+3) {
+	border-color: #347DFF;
+	background-image: linear-gradient(180deg, #347DFF, #5694ff, #77a9ff);
+}
+
+.box .inner .item:nth-child(4n+4) {
+	border-color: #a5673f;
+	background-image: linear-gradient(180deg, #a5673f, #ce8d62, #ebb18b);
+}
+
+.box .inner .item:nth-child(2n+1) {
+	margin-right: 40rpx;
+}
+
+.box .inner .item .ix {
+	font-size: 60rpx;
+	margin-right: 15rpx;
+	color: #fff;
+	background-color: rgba(255, 255, 255, 0.2);
+	padding: 10rpx;
+	border-radius: 10rpx;
+}
+
+
+.box .inner .item .title {
+	font-size: 32rpx; 
+}

@@ -1,0 +1,101 @@
+{
+	"pages": [
+		"projects/exam/pages/default/index/default_index",
+		"projects/exam/pages/about/list/about_list",
+		"projects/exam/pages/about/index/about_index",
+		"projects/exam/pages/search/search",
+		"projects/exam/pages/my/index/my_index",
+		"projects/exam/pages/my/reg/my_reg",
+		"projects/exam/pages/my/edit/my_edit",
+		"projects/exam/pages/my/foot/my_foot",
+		"projects/exam/pages/my/fav/my_fav",
+		"projects/exam/pages/news/index/news_index",
+		"projects/exam/pages/news/detail/news_detail",
+		"projects/exam/pages/news/cate1/news_cate1",
+		"projects/exam/pages/news/cate2/news_cate2",
+		"projects/exam/pages/admin/news/list/admin_news_list",
+		"projects/exam/pages/admin/news/add/admin_news_add",
+		"projects/exam/pages/admin/news/edit/admin_news_edit",
+		"projects/exam/pages/admin/setup/about/admin_setup_about",
+		"projects/exam/pages/admin/setup/about_list/admin_setup_about_list",
+		"projects/exam/pages/admin/setup/qr/admin_setup_qr",
+		"projects/exam/pages/admin/index/home/admin_home",
+		"projects/exam/pages/admin/index/login/admin_login",
+		"projects/exam/pages/admin/content/admin_content",
+		"projects/exam/pages/admin/mgr/log/admin_log_list",
+		"projects/exam/pages/admin/mgr/edit/admin_mgr_edit",
+		"projects/exam/pages/admin/mgr/list/admin_mgr_list",
+		"projects/exam/pages/admin/mgr/add/admin_mgr_add",
+		"projects/exam/pages/admin/mgr/pwd/admin_mgr_pwd",
+		"projects/exam/pages/admin/user/list/admin_user_list",
+		"projects/exam/pages/admin/user/detail/admin_user_detail",
+		"projects/exam/pages/admin/user/export/admin_user_export",
+		"projects/exam/pages/admin/question/add/admin_question_add",
+		"projects/exam/pages/admin/question/edit/admin_question_edit",
+		"projects/exam/pages/admin/question/list/admin_question_list",
+		"projects/exam/pages/question/index/question_index",
+		"projects/exam/pages/question/result/question_result",
+		"projects/exam/pages/question/run/question_run",
+		"projects/exam/pages/question/answer_my_list/question_answer_my_list",
+		"projects/exam/pages/question/answer_detail/question_answer_detail",
+		"projects/exam/pages/admin/question/setup/admin_question_setup",
+		"projects/exam/pages/admin/question/answer_list/admin_answer_list",
+		"projects/exam/pages/admin/question/import/admin_question_import",
+		"projects/exam/pages/admin/question/clear/admin_question_clear",
+		"projects/exam/pages/question/rank/answer_rank",
+		"projects/exam/pages/admin/question/rank_export/admin_question_rank_export",
+		"cmpts/public/form/form_set/field/form_set_field",
+		"cmpts/public/form/form_show/content/form_show_content",
+		"pages/test1/test1"
+	],
+	"window": {
+		"backgroundColor": "#f1f1f1",
+		"backgroundTextStyle": "dark",
+		"navigationBarBackgroundColor": "#EB5757",
+		"navigationBarTitleText": "中小学学科答题小程序",
+		"navigationBarTextStyle": "white"
+	},
+	"tabBar": {
+		"custom": false,
+		"backgroundColor": "#FFFFFF",
+		"color": "#999999",
+		"selectedColor": "#EB5757",
+		"list": [
+			{
+				"pagePath": "projects/exam/pages/default/index/default_index",
+				"text": "首页",
+				"iconPath": "/projects/exam/images/tabbar/home.png",
+				"selectedIconPath": "/projects/exam/images/tabbar/home_cur.png"
+			},
+			{
+				"pagePath": "projects/exam/pages/news/index/news_index",
+				"text": "通知公告",
+				"iconPath": "/projects/exam/images/tabbar/news.png",
+				"selectedIconPath": "/projects/exam/images/tabbar/news_cur.png"
+			},
+			{
+				"pagePath": "projects/exam/pages/question/rank/answer_rank",
+				"text": "排行榜",
+				"iconPath": "/projects/exam/images/tabbar/day.png",
+				"selectedIconPath": "/projects/exam/images/tabbar/day_cur.png"
+			},
+			{
+				"pagePath": "projects/exam/pages/my/index/my_index",
+				"text": "我的",
+				"iconPath": "/projects/exam/images/tabbar/my.png",
+				"selectedIconPath": "/projects/exam/images/tabbar/my_cur.png"
+			}
+		]
+	},
+	"permission": {
+		"scope.userLocation": {
+			"desc": "获取你当前位置信息用于小程序位置接口的效果展示"
+		}
+	},
+	"usingComponents": {
+		"cmpt-comm-list": "/cmpts/public/list/comm_list_cmpt",
+		"cmpt-picker": "/cmpts/public/picker/picker_cmpt",
+		"cmpt-modal": "/cmpts/public/modal/modal_cmpt"
+	},
+	"sitemapLocation": "sitemap.json"
+}
